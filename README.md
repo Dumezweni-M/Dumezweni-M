@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dumezweni-M
 - 👀 I’m interested in Web development  
-- 🌱 I’m currently learning Html and Css
+- 🌱 I’m currently learning Html, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
