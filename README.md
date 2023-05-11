@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dumezweni-M
-- 👀 I’m interested in Web development (FullStack)
-- 🌱 I’m currently learning JavaScript and Java
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning JavaScript
 
 <!---
 Dumezweni-M/Dumezweni-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
